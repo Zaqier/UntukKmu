@@ -136,10 +136,10 @@
     <div class="container">
         <div class="header">
             <div class="photo-frame">
-                <img src="WhatsApp Image 2025-05-27 at 19.27.53_6334c3fd.jpg" alt="Momen Spesial 1">
+              <img src="WhatsApp_Image_2025-05-27_at_19.27.53_6334c3fd.jpg" alt="Momen Spesial 1">
             </div>
             <div class="photo-frame">
-                <img src="WhatsApp Image 2025-05-27 at 19.27.53_6334c3fd.jpg" alt="Kencan Romantis">
+               <img src="WhatsApp_Image_2025-05-27_at_19.27.53_6334c3fd.jpg" alt="Momen Spesial 2">
             </div>
             <h1 id="title">Untuk <span id="name">Kekasihku</span> ❤</h1>
             <p>Scroll untuk baca surat cintaku...</p>
